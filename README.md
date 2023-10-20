@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
 <h3 align="center">A passionate QA from Turkey</h3>
 
-- 🌱 I’m currently learning **JAVA, MySQL, MSSQL, CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **JAVA, MySQL, MSSQL, CSS, JAVASCRIPT, PYTHON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
