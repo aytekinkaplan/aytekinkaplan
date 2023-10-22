@@ -6,7 +6,7 @@
 
 ### Hi there 👋, Aytekin Kaplan
 #### QA Engineering
-![QA Engineering]https://github.com/aytekinkaplan/aytekinkaplan/blob/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner%20Kopyas%C4%B1.png?raw=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aytekinkaplan&show_icons=true&theme=radical)
 
 
 Studying Skills: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
