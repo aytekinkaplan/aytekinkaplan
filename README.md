@@ -2,15 +2,14 @@
 <h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
 <h3 align="center">A passionate QA from Turkey</h3>
 
-- 🌱 I’m currently learning **JAVA, MySQL, MSSQL, CSS, JAVASCRIPT, PYTHON**
+- 🌱 I’m currently learning **JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS**
 
 ### Hi there 👋, Aytekin Kaplan
 #### QA Engineering
 ![QA Engineering](https://twitter.com/aoniki2018/header_photo)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
+Studying Skills: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
 
 - 🔭 I’m currently working on Studying for  
 - 🌱 I’m currently learning JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS 
