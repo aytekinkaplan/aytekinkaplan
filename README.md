@@ -11,7 +11,7 @@
 
 ### Hi there 👋, Aytekin Kaplan
 #### QA Engineering
-![QA Engineering](https://www.canva.com/design/DAFtwaInnlE/wCwxpphkH3Z_OoJncqgPkg/edit?utm_content=DAFtwaInnlE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![QA Engineering]https://pbs.twimg.com/profile_banners/1160038059980808194/1697979804/600x200
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
