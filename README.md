@@ -15,7 +15,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
+Skills studying for: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
 
 - 🔭 I’m currently working on Studying for  
 - 🌱 I’m currently learning JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS 
