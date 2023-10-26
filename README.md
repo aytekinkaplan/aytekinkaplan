@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
-<h3 align="center">A passionate QA from Turkey</h3>
+<h3 align="center">A passionate QA</h3>
 
 - 🌱 I’m currently learning **JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS**
 
