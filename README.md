@@ -25,9 +25,9 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 
 **Connect With Me**
 
-* **Website/Portfolio:** [Your Portfolio URL](https://aytekinkaplan.github.io/resume/)
-* **GitHub:** [Your GitHub Profile URL] (https://github.com/aytekinkaplan)
-* **LinkedIn:** [Your LinkedIn Profile URL] (https://www.linkedin.com/in/aytekinkaplan/)
+* **Website/Portfolio:** https://aytekinkaplan.github.io/resume/
+* **GitHub:**  (https://github.com/aytekinkaplan)
+* **LinkedIn:** (https://www.linkedin.com/in/aytekinkaplan/)
 * **Email:** aoniki2018@gmail.com
 
 **Note:** Github Activity Graph and Github metrics are currently not working. Please refer to the links below for more information:
@@ -36,3 +36,8 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * **Github metrics:** [Github metrics Link] (https://metrics.lecoq.io/)
 
 **Feel free to reach out if you have any questions or want to connect!**
+
+* You can add a profile picture to your README by uploading an image file to your GitHub repository and referencing it using markdown syntax:
+
+```markdown
+[Profile Picture: path/to/your/image.png](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
