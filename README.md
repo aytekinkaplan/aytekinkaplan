@@ -1,36 +1,45 @@
+<h1 align="center">Hi , I'm Aytekin Kaplan</h1>
+<h3 align="center">QA Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
-<h3 align="center">A passionate QA</h3>
+**About Me**
 
-- 🌱 I have got some projects using technologies **JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS**
+I'm a passionate QA Engineer with a strong foundation in various testing technologies. I'm constantly striving to improve my skills and expand my knowledge in the software development lifecycle.
 
-### Hi there 👋, Aytekin Kaplan
-#### QA Engineering
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aytekinkaplan&show_icons=true&theme=radical)
+**Skills**
 
+* **Programming Languages:** Java, Python
+* **Testing Tools:** Selenium, Cypress
+* **Databases:** MySQL
+* **Web Development:** JavaScript, HTML, CSS
 
-### Hi there 👋, Aytekin Kaplan
-#### QA Engineering
-![QA Engineering]https://pbs.twimg.com/profile_banners/1160038059980808194/1697979804/600x200
+**Technologies I'm Learning**
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+* Java
+* Python
+* Selenium
+* MySQL
+* JavaScript
+* HTML
+* CSS
+* Cypress
 
-Skills studying for: JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS
+**Connect With Me**
 
-- 🔭 I’m currently working on Studying for  
-- 🌱 I’m currently learning JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS 
-- 📫 How to reach me: aoniki2018@gmail.com 
+* **Website/Portfolio:** [Your Portfolio URL (if applicable)] (https://www.linkedin.com/in/aytekinkaplan/)
+* **GitHub:** [Your GitHub Profile URL] (https://github.com/aytekinkaplan)
+* **LinkedIn:** [Your LinkedIn Profile URL] (https://www.linkedin.com/in/aytekinkaplan/)
+* **Email:** aoniki2018@gmail.com
 
+**My Stats**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aytekinkaplan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aytekinkaplan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.linkedin.com/in/aytekinkaplan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.javascript.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](https://www.mysql.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.css3.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg' alt='cypress' height='40'>](https://www.cypress.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg' alt='ubuntu' height='40'>](https://ubuntu.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='40'>](https://sass-lang.com/)  
+* **Top Languages:** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aytekinkaplan)](https://github.com/anuraghazra/github-readme-stats)
+* **GitHub Activity:** [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aytekinkaplan)](https://activity-graph.herokuapp.com/graph?username=aytekinkaplan)
+* **GitHub Metrics:** [![GitHub metrics](https://metrics.lecoq.io/aytekinkaplan)](https://metrics.lecoq.io/aytekinkaplan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aytekinkaplan)](https://github.com/anuraghazra/github-readme-stats)
+**Projects**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aytekinkaplan)  
+* (Link to your project 1 here)
+* (Link to your project 2 here)
+* (Add more project links as needed)
 
-![GitHub metrics](https://metrics.lecoq.io/aytekinkaplan)  
-
-
-
-
-
+**Feel free to reach out if you have any questions or want to connect!**
