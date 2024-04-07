@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
 <h3 align="center">A passionate QA</h3>
 
-- 🌱 I’m currently working with **JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS**
+- 🌱 I have got some projects using technologies **JAVA /PYTHON/ SELENIUM / MySQL / JS / HTML / CSS / CYPRESS**
 
 ### Hi there 👋, Aytekin Kaplan
 #### QA Engineering
