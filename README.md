@@ -39,5 +39,3 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 
 * You can add a profile picture to your README by uploading an image file to your GitHub repository and referencing it using markdown syntax:
 
-```markdown
-[Profile Picture: path/to/your/image.png](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
