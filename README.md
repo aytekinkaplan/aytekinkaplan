@@ -15,6 +15,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 **Technologies I'm Learning**
 
 * Java
+* Java Spring Boot
 * Python
 * Selenium
 * MySQL
