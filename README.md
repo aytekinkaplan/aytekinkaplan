@@ -33,7 +33,6 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 
 **Note:** Github Activity Graph and Github metrics are currently not working. Please refer to the links below for more information:
 
-* **Github Activity Graph:** [Github Activity Graph Link] (https://activity-graph.herokuapp.com/)
 * **Github metrics:** [Github metrics Link] (https://metrics.lecoq.io/)
 
 **Feel free to reach out if you have any questions or want to connect!**
