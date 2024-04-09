@@ -29,7 +29,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * **Website/Portfolio:** https://aytekinkaplan.github.io/resume/
 * **GitHub:**  (https://github.com/aytekinkaplan)
 * **LinkedIn:** (https://www.linkedin.com/in/aytekinkaplan/)
-* **Email:** aoniki2018@gmail.com
+* **Email:** ytknkpln@gmail.com
 
 **Feel free to reach out if you have any questions or want to connect!**
 
