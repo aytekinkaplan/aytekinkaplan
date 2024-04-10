@@ -33,5 +33,3 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 
 **Feel free to reach out if you have any questions or want to connect!**
 
-* You can add a profile picture to your README by uploading an image file to your GitHub repository and referencing it using markdown syntax:
-
