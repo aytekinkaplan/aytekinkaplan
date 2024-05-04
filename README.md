@@ -3,7 +3,7 @@
 
 ![aytekinkaplan's Stats](https://github-readme-stats.vercel.app/api?username=aytekinkaplan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-**About Me**
+## 🚀 About Me
 
 I'm a passionate QA Engineer with a strong foundation in various testing technologies. I'm constantly striving to improve my skills and expand my knowledge in the software development lifecycle.
 
