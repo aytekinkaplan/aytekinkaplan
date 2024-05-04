@@ -27,7 +27,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * Cypress
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,ts,js,selenium,maven,mongodb,mysql,nodejs,aws,docker,git,github,githubactions,jenkins,gherkin,idea,pycharm,vscode,webstorm,postman)](https://skillicons.dev)
 
 **Connect With Me**
 
