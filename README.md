@@ -51,6 +51,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 <a href="https://www.postman.com"><img src="https://skillicons.dev/icons/postman.svg" alt="Postman"></a>
 
 
+
 **Connect With Me**
 
 * **Website/Portfolio:** https://aytekinkaplan.github.io/resume/
