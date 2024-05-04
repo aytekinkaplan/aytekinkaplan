@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Aytekin Kaplan</h1>
 <h3 align="center">QA Engineer</h3>
 
-![aytekinkaplan's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![aytekinkaplan's Stats](https://github-readme-stats.vercel.app/api?username=aytekinkaplan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 **About Me**
 
