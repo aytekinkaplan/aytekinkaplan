@@ -24,6 +24,9 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * CSS
 * Cypress
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 **Connect With Me**
 
 * **Website/Portfolio:** https://aytekinkaplan.github.io/resume/
