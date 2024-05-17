@@ -21,7 +21,9 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * Python
 * Selenium
 * MySQL
+* PostgreSQL
 * JavaScript
+* TypeScript
 * HTML
 * CSS
 * Cypress
