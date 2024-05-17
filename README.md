@@ -11,7 +11,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 
 * **Programming Languages:** Java, Python
 * **Testing Tools:** Selenium, Cypress
-* **Databases:** MySQL
+* **Databases:** MySQL, PostgreSQL
 * **Web Development:** JavaScript, HTML, CSS
 
 **Technologies I'm Learning**
