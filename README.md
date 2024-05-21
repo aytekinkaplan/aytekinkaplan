@@ -10,7 +10,7 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 **Skills**
 
 * **Programming Languages:** Java, Python
-* **Testing Tools:** Selenium, Cypress
+* **Testing Tools:** Selenium, Cypress, Playwright
 * **Databases:** MySQL, PostgreSQL
 * **Web Development:** JavaScript, HTML, CSS
 
