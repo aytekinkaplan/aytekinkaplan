@@ -24,6 +24,11 @@ I'm a passionate QA Engineer with a strong foundation in various testing technol
 * PostgreSQL
 * JavaScript
 * TypeScript
+* NodeJS
+* ExpressJS
+* React
+* Redux
+* NextJS
 * HTML
 * CSS
 * Cypress
