@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aytekin Kaplan
 
-### A Passionate QA Engineer
+### A Passionate Software Quality and Development Engineer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aytekinkaplan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aytekinkaplan's GitHub Stats" />
