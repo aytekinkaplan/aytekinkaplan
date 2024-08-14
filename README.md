@@ -1,6 +1,6 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
-<h3 align="center">A Passionate QA Engineer</h3>
+# Hi 👋, I'm Aytekin Kaplan
+
+### A Passionate QA Engineer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aytekinkaplan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aytekinkaplan's GitHub Stats" />
@@ -77,4 +77,3 @@ Check out my [Python Blog](https://aytekinkaplan.github.io/python-blog/) for ins
 <p align="center">
   <i>Feel free to reach out if you have any questions or want to connect!</i>
 </p>
-```
