@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Aytekin Kaplan</h1>
 <h3 align="center">A Passionate QA Engineer</h3>
 
@@ -15,6 +16,14 @@ I'm a dedicated QA Engineer with a strong foundation in various testing technolo
 - **Testing Tools:** Selenium, Cypress, Playwright
 - **Databases:** MySQL, PostgreSQL
 - **Web Development:** JavaScript, HTML, CSS
+
+## 💻 Tech Stack
+
+[View My Interactive Tech Stack](https://aytekinkaplan.github.io/tech-stack)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,selenium,maven,mongodb,mysql,nodejs,aws,docker,git,github,githubactions,jenkins,gherkin,idea,pycharm,vscode,webstorm,postman" alt="Tech Stack" />
+</p>
 
 ### 🌱 I'm Currently Learning
 
@@ -35,12 +44,6 @@ I'm a dedicated QA Engineer with a strong foundation in various testing technolo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-</p>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,selenium,maven,mongodb,mysql,nodejs,aws,docker,git,github,githubactions,jenkins,gherkin,idea,pycharm,vscode,webstorm,postman" alt="Tech Stack" />
 </p>
 
 ## 🤝 Connect With Me
@@ -74,3 +77,4 @@ Check out my [Python Blog](https://aytekinkaplan.github.io/python-blog/) for ins
 <p align="center">
   <i>Feel free to reach out if you have any questions or want to connect!</i>
 </p>
+```
