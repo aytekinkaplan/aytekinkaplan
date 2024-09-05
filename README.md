@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aytekin Kaplan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Software+Developer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Developer;QA+Engineer;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,7 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a dedicated QA Engineer with a strong foundation in various testing technologies. My passion lies in ensuring software quality and continuously expanding my knowledge across the software development lifecycle.
+I'm a versatile Software Developer and QA Engineer with a passion for creating robust, high-quality software solutions. My expertise spans both development and quality assurance, allowing me to approach projects with a comprehensive perspective.
+
+In development, I leverage my skills in Java, Python, and JavaScript to build efficient and scalable applications. I'm well-versed in frameworks like Spring and Node.js, and I'm constantly expanding my knowledge in areas such as React and Next.js.
+
+On the QA side, I excel in ensuring software quality through both manual and automated testing. I'm proficient in tools like Selenium, Cypress, and Playwright, and I apply best practices in test design and execution. My experience with CI/CD pipelines, particularly using Jenkins and GitHub Actions, enables me to integrate quality assurance seamlessly into the development process.
+
+I'm dedicated to continuous learning and staying updated with the latest technologies and methodologies in both software development and quality assurance. This dual expertise allows me to contribute effectively to all stages of the software development lifecycle, from initial design to deployment and maintenance.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aytekinkaplan&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="aytekinkaplan's GitHub Stats" />
